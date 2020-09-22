@@ -21,7 +21,6 @@ public class SelectionSort {
 		int[] intArr = new int[] { 1, 10, 2, 8, 4, 6 };
 
 		System.out.println(Arrays.toString(sort(intArr)));
-		System.out.println(Arrays.toString(sort(intArr)));
 	}
 
 }
